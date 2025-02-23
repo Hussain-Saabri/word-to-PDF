@@ -1,4 +1,4 @@
-# File Convetor:-word to pdf using nodejs and expressjs
+# File Convertor:-word to pdf using nodejs and expressjs
 created an fileconvertor using nodejs and expressjs 
 
 ## 🚀 Technology used
