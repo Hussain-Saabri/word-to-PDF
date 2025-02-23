@@ -18,4 +18,4 @@ step 3:- install the multer and doc-pdf library
 
 If u know JAVA then u can do this in 6 lines of codes only , but in this it was demostration how nodejs is used to convert this
 # screenshots
-![image alt]()
+![image alt](https://github.com/Hussain-Saabri/word-to-PDF/blob/ba3e36311c734fe6d30e4809354dd775a07bf7d2/screenshot.png)
